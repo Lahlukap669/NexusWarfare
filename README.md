@@ -1,5 +1,5 @@
 # Nexus Warfare
-Objective : Defeat the waves using turrets. Collect the coins dropped by monsters and buy new turrets to stack and upgrade them. Try surviving all the waves.
+Objective : Defeat the waves using water turrets. Collect the coins dropped by dirty monsters and buy new water turrets to stack and upgrade them. Try surviving all the waves.
 
 
 # Setup
