@@ -27,6 +27,6 @@ Click on the Project Nexus Warfare and select properties. Select TargetedFramewo
 If we try to run the project the Android SDK Manager will open automaticly aksing you to create New Google Pixel 5 emulator. Confirm creation of Android SDK and after installation run the emulator. Once the emulator has been run, shut it down.
 
 
-##Running the Game
+## Running the Game
 
 All that is left to do is simply run the project and it should run the Game in the Android emulator.
